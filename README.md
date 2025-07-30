@@ -2,7 +2,6 @@
 
 🎓 I'm currently studying **Computer Engineering** and **Information Systems**.
 
-🧠 I’m passionate about learning and building things with code.  
 🌐 I enjoy web development, scripting, and backend logic.  
 📚 Always improving my skills and exploring new technologies.
 
