@@ -1,4 +1,4 @@
-#  Hi there, I'm Maria Luisa Britez!
+# 👋 Hi there, I'm Maria Luisa Britez!
 
 🎓 **Computer Systems Engineering and University Programmer Analyst Student** at the National University of La Plata (UNLP).
 
@@ -35,10 +35,10 @@ I am a **Fullstack Developer** with a strong analytical mindset and a passion fo
 ---
 
 ## 🌎 Languages
-* 🇪🇸 **Spanish:** Native.
-* 🇺🇸 **English:** Advanced.
-* 🇧🇷 **Portuguese:** Advanced.
-* 🇫🇷 **French:** Basic.
+* 🇪🇸 **Spanish:** Native
+* 🇺🇸 **English:** Advanced
+* 🇧🇷 **Portuguese:** Advanced
+* 🇫🇷 **French:** Basic
 
 ---
 
