@@ -34,24 +34,6 @@ I am a **Fullstack Developer** with a strong analytical mindset and a passion fo
 
 ---
 
-## 🌎 Languages
-* 🇪🇸 **Spanish:** Native
-* 🇺🇸 **English:** Advanced
-* 🇧🇷 **Portuguese:** Advanced
-* 🇫🇷 **French:** Basic
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=britezlmaria&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=britezlmaria&layout=compact&theme=dracula&count_private=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact Me
 * 💼 [LinkedIn](https://www.linkedin.com/in/maria-luisa-britez/)
 * 📧 Email: britezmariaal@gmail.com
